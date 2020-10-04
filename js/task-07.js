@@ -39,3 +39,5 @@ console.log(filterArray([undefined, false, null, [], 1]))
 
 console.log(filterArray([{}, () => {}, 2]))
 // [2]
+
+//https://itchief.ru/javascript/working-with-numbers#id-0
